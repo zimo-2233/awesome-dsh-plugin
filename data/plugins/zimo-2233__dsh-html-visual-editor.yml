@@ -1,6 +1,7 @@
 url: https://github.com/zimo-2233/dsh-html-visual-editor
 name: zimo-2233/dsh-html-visual-editor
 category: ui
+tarball: https://github.com/zimo-2233/dsh-html-visual-editor/releases/latest/download/dsh-html-visual-editor.tgz
 description:
   en: 'Edit a generated HTML file on the rendered page itself, inside the DSH Better Sidebar: the document is rendered in an isolated iframe, text and formatting are changed in place, and an explicit save writes the result back to the same file with the original head, styles and doctype preserved. Requires dsh-better-sidebar 0.28.0 or newer; original page scripts, handlers, forms and network calls are blocked in the preview, and the host mtime conflict guard still applies.'
   zh: '在 DSH Better Sidebar 里直接编辑渲染后的 HTML 页面：文档在隔离的 iframe 中渲染，就地修改文字与格式，显式保存后写回同一文件，head、样式与 doctype 原样保留。需要 dsh-better-sidebar 0.28.0 或更新版本；预览中不执行原页面脚本、事件处理器、表单与网络请求，并沿用宿主的 mtime 冲突保护。'
